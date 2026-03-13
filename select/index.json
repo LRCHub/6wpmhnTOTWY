@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夕さりのカノン（feat. 『ユイカ』）",
+  "base_artist": "粗品",
+  "createdAt": "2026-03-13T15:37:29.432761Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夕さりのカノン feat.『ユイカ』",
+      "artist": "粗品",
+      "has_synced": false,
+      "path": "select/pl_01_夕さりのカノン_feat.『ユイカ』_粗品.txt"
+    }
+  ]
+}
